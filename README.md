@@ -1,6 +1,7 @@
 # Deep learning with Google Colab
 Bu repositoryde(düzenle) Colab Notebookun ücretsiz GPUsunu kullanarak YOLO algoritması ile nesne yakalama yapacağız.
 
+# KAGGLE'A KOYDUĞUM VERİ SETİNİN LİNKİNİ KOY
 
 Örnek olarak plaka tanıma. 
 /// buraya plaka yakalama gifi koy 
